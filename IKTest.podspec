@@ -2,10 +2,10 @@ Pod::Spec.new do |s|
   s.name             = "IKTest"
   s.version          = "1.0.0"
   s.summary          = "Just test."
-  s.homepage         = "https://github.com/sunXiChun/IKTest.git"
+  s.homepage         = "https://github.com/iceorfire"
   s.license          = 'Code is MIT, then custom font licenses.'
   s.author           = { "Orta" => "orta.therox@gmail.com" }
-  s.source           = { :git => "https://github.com/sunXiChun/IKTest.git", :tag => s.version }
+  s.source           = { :git => "https://github.com/iceorfire/IKTest.git", :tag => s.version }
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
