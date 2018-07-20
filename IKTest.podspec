@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "IKTest"
-  s.version          = "1.0.0"
+  s.version          = "1.0.1"
   s.summary          = "Just test."
   s.homepage         = "https://github.com/iceorfire"
   s.license          = 'Code is MIT, then custom font licenses.'
